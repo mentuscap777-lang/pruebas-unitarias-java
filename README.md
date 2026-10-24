@@ -7,3 +7,4 @@
 Bugs encontrados y corregidos:
 - `CalculadoraNotas.estaAprobado`: usaba `>` en vez de `>=` (el 3.0 reprobaba).
 - `CarritoCompras.agregarProducto`: usaba `cantidad < 0` en vez de `cantidad <= 0`.
+Entrega final
